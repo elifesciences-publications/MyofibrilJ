@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Spletter et al., "A transcriptomics resource reveals a transcriptional transition during ordered sarcomere morphogenesis in flight muscle". eLife, 2018. http://dx.doi.org/10.7554/eLife.34058
+
 # MyofibrilJ
 
 **MyofibrilJ** is a set of routines to analyse fibril morphology in fluorescence images of muscle fibers. They are provided as a plugin for [ImageJ](http://imagej.net/).
